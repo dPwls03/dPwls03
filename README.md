@@ -34,7 +34,7 @@
 </p>
 
 ### My Info
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinmimi7u)](https://solved.ac/jinmimi7u)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinmimi7u)](https://solved.ac/jinmimi7u)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dPwls03&show_icons=true&theme=tokyonight)
 
 ### Contacts
