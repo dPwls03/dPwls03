@@ -38,3 +38,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinmimi7u@gmail.com)](mailto:jinmimi7u@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dPwls03&show_icons=true&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jinmim7u)](https://solved.ac/jinmimi7u)
