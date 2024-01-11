@@ -30,9 +30,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Excel](https://img.shields.io/badge/microsoftexcel%-217346?style=for-the-badge&logo=microsoftexcel%20alexa&logoColor=white)
-<p align="left">
-</p>
 
 ### My Info
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinmimi7u)](https://solved.ac/jinmimi7u)
