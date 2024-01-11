@@ -24,16 +24,12 @@
   </a>
 </p>
 
-<h3 align="left">Tools</h3>
-<p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  ### Tools
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinmimi7u)](https://solved.ac/jinmimi7u)
-</p>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p>
-  <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dPwls03&show_icons=true&theme=dark=en" alt="dPwls03" /></p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </p>
