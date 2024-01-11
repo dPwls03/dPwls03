@@ -35,8 +35,8 @@
 
 ### My Info
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinmimi7u)](https://solved.ac/jinmimi7u)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dPwls03&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dPwls03&show_icons=true&theme=tokyonight)
 
 ### Contacts
-![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jinmimi7u@naver.com)](mailto:jinmimi7u@naver.com)
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinmimi7u@gmail.com)](mailto:jinmimi7u@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jinmimi7u@naver.com)](mailto:jinmimi7u@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinmimi7u@gmail.com)](mailto:jinmimi7u@gmail.com)
