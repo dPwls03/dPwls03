@@ -35,5 +35,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-  <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dPwls03&show_icons=true&theme=dark&cobalt=en" alt="dPwls03" /></p>
+  <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dPwls03&show_icons=true&theme=dark=en" alt="dPwls03" /></p>
 </p>
