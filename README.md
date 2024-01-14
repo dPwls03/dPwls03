@@ -1,4 +1,4 @@
-<h1 align="center">Ye jin Choi 🔥</h1>
+<h1 align="center">Yejin Choi 🔥</h1>
 <p align="left">
 </p>
 
