@@ -1,7 +1,9 @@
 <h1 align="center">Yejin Choi 🔥</h1>
 <p align="left">
 </p>
-
+<div align="center"> 
+<img src="cat.webp" width="100"/>
+</div>
 <h3 align="left">Languages</h3>
 <p align="left"> 
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
